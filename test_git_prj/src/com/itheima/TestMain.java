@@ -10,6 +10,6 @@ public class TestMain {
 
 
     public void f(){
-
+        System.out.println("fffffffffffffff");
     }
 }
